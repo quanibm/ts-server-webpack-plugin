@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "./dist/run-server-webpack-plugin.js",
+  "types": "/dist/run-server-webpack-plugin.d.ts",
   "files": [
-    "dist"
+    "dist/**/*"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
