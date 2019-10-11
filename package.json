@@ -22,5 +22,6 @@
   "homepage": "https://github.com/zengibm/ts-server-webpack-plugin#readme",
   "devDependencies": {
     "@types/node": "^12.7.12"
-  }
+  },
+  "typings": "@types/run-server-webpack-plugin.d.ts"
 }
